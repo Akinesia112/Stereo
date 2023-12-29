@@ -11,6 +11,7 @@ people can pick and explore their favorite music objects through sound and visio
 Users can participate in the music mixing process through sound effect processors and mixers, 
 creating their own remix on the spot and sharing it on social media.
 
+![Flow Chart](Flow_Chart.jpeg)
 ![Alt text](https://drive.google.com/file/d/1r6JvyK3XqOUSFGCK8XVh5deW2of48GNe/view?usp=drivesdk)
 [![Video Title](https://img.youtube.com/vi/3_VWzdwezVs/0.jpg)](https://youtu.be/3_VWzdwezVs?si=4SaS0pfijqaJ012h "Click to Watch!")
 [APK file Link](https://drive.google.com/file/d/1HbhWSxFHlgtM5YLzaFxs11Gurpmix31n/view?usp=drivesdk)
