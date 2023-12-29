@@ -1,6 +1,7 @@
 # Stereo
 Mixed-Design in Music and Acoustic Power the Spatial Interaction Module for Field Experiences.
 -
+#This app and its interactive design were jointly developed by Shih-Yu Lai, Wen-Chen Chen, Yu-Ting Wu, Rui-Xia Xu, and Wan-Ting Xie.
 This is a community sharing app that interacts with the environment through sound and vision. 
 People's preferences for experiences mostly come from their current emotions, 
 for example, preferring warm colors when happy and slow songs when sad.
